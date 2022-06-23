@@ -11,20 +11,25 @@ NGINX est un serveur web orienté performance permettant de gérer beaucoup plus
   
 ## II. Hébergements recommandés
 
-Hébergements mutualisés : [https://www.lws.fr/hebergement_web.php](https://www.lws.fr/hebergement_web.php)  
-Hébergements cPanel® : [https://www.lws.fr/hebergement-cpanel.php](https://www.lws.fr/hebergement-cpanel.php)  
-Hébergements Wordpress : [https://www.lws.fr/hebergement_wordpress.php](https://www.lws.fr/hebergement_wordpress.php)  
-Hébergements Wordpress WooCommerce : [https://www.lws.fr/hebergement-woocommerce.php](https://www.lws.fr/hebergement-woocommerce.php)  
-Serveurs VPS : [https://www.lws.fr/serveur-virtuel.php](https://www.lws.fr/serveur-virtuel.php)  
-Serveurs cPanel® : [https://www.lws.fr/serveur-cpanel.php](https://www.lws.fr/serveur-cpanel.php)  
+Hébergements mutualisés : [https://www.mister-hosting.com](https://www.mister-hosting.com)  
+Hébergements cPanel® : [https://www.mister-hosting.com/hebergement-web](https://www.mister-hosting.com/hebergement-web)  
+Hébergements Wordpress : [https://www.mister-hosting.com/hebergement-wordpress](https://www.mister-hosting.com/hebergement-wordpress)  
+Serveurs VPS : [https://www.mister-hosting.com/vps-pas-cher](https://www.mister-hosting.com/vps-pas-cher)
 
 ## III. Aides et tutoriels
 
 Vous trouverez ci-dessous nos aides et tutoriels pour vous guider lors de l'installation ou l'utilisation du plugin :  
 
-Nos aides : [https://aide.lws.fr](https://aide.lws.fr)  
+Nos aides :
+- [https://aide.mister-hosting.com/base/Hebergement-web-mutualise/Outils-web/Comment-utiliser-les-modules-de-cache-sur-LWSPanel](https://aide.mister-hosting.com/base/Hebergement-web-mutualise/Outils-web/Comment-utiliser-les-modules-de-cache-sur-LWSPanel)  
+- [https://aide.mister-hosting.com/base/Serveur-Cloud-avec-cPanel/Tutoriels-complets/Comment-utiliser-la-mise-en-cache-Fastest-Cache-sur-un-compte-cPanel](https://aide.mister-hosting.com/base/Serveur-Cloud-avec-cPanel/Tutoriels-complets/Comment-utiliser-la-mise-en-cache-Fastest-Cache-sur-un-compte-cPanel)  
+- [https://aide.mister-hosting.com/base/Hebergement-web-mutualise/Divers/Accelerer-la-vitesse-de-votre-site-avec-LWS-Cache](https://aide.mister-hosting.com/base/Hebergement-web-mutualise/Divers/Accelerer-la-vitesse-de-votre-site-avec-LWS-Cache)
+
+Notre blog :  
+- [https://blog.lws-hosting.com/hebergement-mutualise/ameliorer-les-performances-de-wordpress-avec-fastest-cache-cache-varnish](https://blog.lws-hosting.com/hebergement-mutualise/ameliorer-les-performances-de-wordpress-avec-fastest-cache-cache-varnish)  
+- [https://blog.lws-hosting.com/creation-de-sites-web/comment-augmenter-les-performances-de-votre-site-wordpress-grace-a-fastest-cache](https://blog.lws-hosting.com/creation-de-sites-web/comment-augmenter-les-performances-de-votre-site-wordpress-grace-a-fastest-cache)  
+
 Nos tutoriels : [https://tutoriels.lws.fr](https://tutoriels.lws.fr)  
-Notre blog : [https://blog.lws-hosting.com](https://blog.lws-hosting.com)
 
 -----
 Vous pouvez suivre LWS sur  ![icone_facebook](https://mailing.lwspanel.com/facebook.svg) [Facebook](https://www.facebook.com/misterhosting.fr) / ![icone_twitter](https://mailing.lwspanel.com/twitter.svg) [Twitter](https://twitter.com/mister_hosting) / ![icone_youtube](https://mailing.lwspanel.com/youtube.svg) [YouTube](https://www.youtube.com/channel/UCL8oDZd0VYToaK1C93EiCqg/featured)
